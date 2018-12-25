@@ -4,3 +4,13 @@ A simple Android app made to track a score, without being able to see your score
 [Invisible Scoreboard is available for free on the Google Play Store](https://play.google.com/store/apps/details?id=com.ricardovogel.invisscore)
 
 I am currently working on a version without Unity, made in Java. This repository is available [here](https://github.com/ricardovogel/invisible-scoreboard).
+
+![screenshot0][screenshot0]
+![screenshot1][screenshot1]
+![screenshot2][screenshot2]
+
+
+
+[screenshot0]: https://github.com/ricardovogel/invisible-scoreboard-unity/blob/master/screenshots/screenshot0.png "Main screen"
+[screenshot1]: https://github.com/ricardovogel/invisible-scoreboard-unity/blob/master/screenshots/screenshot1.png "Playing screen"
+[screenshot2]: https://github.com/ricardovogel/invisible-scoreboard-unity/blob/master/screenshots/screenshot2.png "Score screen"
